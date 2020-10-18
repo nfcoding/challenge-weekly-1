@@ -1,7 +1,7 @@
 {
   "name": "react-from-scratch",
   "version": "1.0.0",
-  "description": "",
+  "description": "Dalam chalenge ini anda di tuntut untuk belajar membaca kode dan merubah kode yang ada sesuai spesifikasi yang diberikan",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -33,5 +33,13 @@
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sendi-caio/challenge-weekly-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sendi-caio/challenge-weekly-1/issues"
+  },
+  "homepage": "https://github.com/sendi-caio/challenge-weekly-1#readme"
 }
